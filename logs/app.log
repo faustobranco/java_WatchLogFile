@@ -1,0 +1,266 @@
+2019-11-25 12:01:28,826 DEBUG c.f.Main [main] Hello from Log4j 2
+2019-11-25 12:01:29,875 DEBUG c.f.Main [main] {}
+2019-11-25 12:38:23,677 DEBUG c.f.Main [main] Hello from Log4j 2
+2019-11-25 12:38:23,883 DEBUG c.f.Main [main] {}
+2019-11-25 12:39:33,011 DEBUG c.f.Main [main] Hello from Log4j 2 
+2019-11-25 12:39:33,013 DEBUG c.f.Main [main] {} 
+2019-11-25 12:45:33,314 DEBUG c.f.Main [main] Hello from Log4j 2 
+2019-11-25 12:45:33,329 DEBUG c.f.Main [main] {} 
+2019-11-25 12:46:01,722 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 12:46:01,725 [DEBUG ] Main – {}
+2019-11-25 12:47:49,956 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 12:47:49,958 [DEBUG ] Main – {}
+2019-11-25 12:47:49,958 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 12:47:49,958 [INFO  ] Main – the built-in INFO level
+2019-11-25 12:47:49,958 [WARN  ] Main – the built-in WARN level
+2019-11-25 12:47:49,958 [ERROR ] Main – the built-in ERROR level
+2019-11-25 12:47:49,959 [FATAL ] Main – the built-in FATAL level
+2019-11-25 12:50:37,434 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 12:50:37,438 [DIAG  ] Main – a diagnostic message
+2019-11-25 12:50:37,438 [DIAG  ] Main – another diagnostic message
+2019-11-25 12:50:37,440 [DEBUG ] Main – {}
+2019-11-25 12:50:37,441 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 12:50:37,441 [INFO  ] Main – the built-in INFO level
+2019-11-25 12:50:37,441 [WARN  ] Main – the built-in WARN level
+2019-11-25 12:50:37,441 [ERROR ] Main – the built-in ERROR level
+2019-11-25 12:50:37,441 [FATAL ] Main – the built-in FATAL level
+2019-11-25 12:58:15,194 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 12:58:15,199 [DIAG  ] Main – a diagnostic message
+2019-11-25 12:58:15,199 [DIAG  ] Main – another diagnostic message
+2019-11-25 12:58:15,199 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 12:58:15,199 [DEBUG ] Main – {}
+2019-11-25 12:58:15,199 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 12:58:15,199 [INFO  ] Main – the built-in INFO level
+2019-11-25 12:58:15,200 [WARN  ] Main – the built-in WARN level
+2019-11-25 12:58:15,200 [ERROR ] Main – the built-in ERROR level
+2019-11-25 12:58:15,200 [FATAL ] Main – the built-in FATAL level
+2019-11-25 12:59:33,034 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 12:59:33,050 [DIAG  ] Main – a diagnostic message
+2019-11-25 12:59:33,051 [NOTICE] Main – another diagnostic message
+2019-11-25 12:59:33,051 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 12:59:33,052 [DEBUG ] Main – {}
+2019-11-25 12:59:33,052 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 12:59:33,052 [INFO  ] Main – the built-in INFO level
+2019-11-25 12:59:33,052 [WARN  ] Main – the built-in WARN level
+2019-11-25 12:59:33,052 [ERROR ] Main – the built-in ERROR level
+2019-11-25 12:59:33,053 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:03:55,100 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:03:55,105 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:03:55,105 [NOTICE] Main – another diagnostic message
+2019-11-25 13:03:55,105 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:03:55,105 [DEBUG ] Main – {}
+2019-11-25 13:03:55,105 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:03:55,106 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:03:55,106 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:03:55,106 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:03:55,106 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:03:57,484 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:03:57,487 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:03:57,487 [NOTICE] Main – another diagnostic message
+2019-11-25 13:03:57,487 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:03:57,487 [DEBUG ] Main – {}
+2019-11-25 13:03:57,487 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:03:57,487 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:03:57,487 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:03:57,487 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:03:57,488 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:05:00,963 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:05:00,966 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:05:00,966 [NOTICE] Main – another diagnostic message
+2019-11-25 13:05:00,967 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:05:00,967 [DEBUG ] Main – {}
+2019-11-25 13:05:00,967 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:05:00,967 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:05:00,967 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:05:00,967 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:05:00,967 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:06:00,474 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:06:00,478 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:06:00,478 [NOTICE] Main – another diagnostic message
+2019-11-25 13:06:00,478 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:06:00,478 [DEBUG ] Main – {}
+2019-11-25 13:06:00,478 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:06:00,478 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:06:00,478 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:06:00,478 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:06:00,478 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:12:11,629 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:12:11,630 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:12:11,631 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:12:32,166 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:12:32,167 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:12:32,167 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:13:37,593 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:13:37,594 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:13:37,595 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:13:37,595 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:13:37,595 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:13:37,595 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:18:41,039 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:18:41,047 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:18:41,047 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:18:41,047 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:18:41,047 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:18:41,047 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:19:01,079 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:19:01,079 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:19:01,079 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:19:01,080 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:19:01,080 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:19:01,080 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:21:43,286 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:21:43,288 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:21:43,288 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:21:43,288 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:21:43,288 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:21:43,288 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:21:59,636 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:21:59,637 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:21:59,638 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:21:59,639 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:21:59,639 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:21:59,640 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:22:32,557 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:22:32,559 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:22:32,559 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:22:32,560 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:22:32,560 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:22:32,560 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:22:47,835 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:22:47,837 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:22:47,840 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:22:47,840 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:22:47,840 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:22:47,841 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:23:02,639 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:23:02,641 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:23:02,641 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:23:02,641 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:23:02,642 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:23:02,644 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:23:32,573 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:23:32,575 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:23:32,575 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:23:32,575 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:23:32,576 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:23:32,576 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:24:41,493 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:24:41,493 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:24:41,494 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:24:41,494 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:24:41,494 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:24:41,494 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:24:50,417 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:24:50,417 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:24:50,418 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:24:50,418 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:24:50,418 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:24:50,418 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:25:12,899 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:25:12,900 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:25:12,900 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:25:12,900 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:25:12,901 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:25:12,901 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:25:28,373 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:25:28,374 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:25:28,374 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:25:28,374 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:25:28,376 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:25:28,377 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:07,494 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:07,498 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:07,499 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:07,500 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:07,500 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:07,500 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:17,067 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:17,068 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:17,068 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:17,068 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:17,069 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:17,069 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:47,253 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:47,253 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:47,254 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:47,255 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:47,255 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:47,255 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:27:15,036 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:27:15,036 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:27:15,037 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:27:15,037 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:27:15,037 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:27:15,037 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:27:23,609 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:27:23,610 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:27:23,610 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:27:23,610 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:27:23,610 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:27:23,611 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:52:50,486 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:52:50,487 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:52:50,487 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:52:50,487 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:52:50,487 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:52:50,487 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:53:03,118 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:53:03,119 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:53:03,120 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:53:03,120 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:53:03,120 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:53:03,120 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:54:31,939 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:54:31,941 [NOTICE] Main – another diagnostic message
+2019-11-25 13:54:31,941 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:54:31,942 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:54:31,942 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:54:31,942 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:54:31,942 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:54:54,197 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:54:54,197 [NOTICE] Main – another diagnostic message
+2019-11-25 13:54:54,197 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:54:54,198 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:54:54,198 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:54:54,199 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:54:54,199 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:55:54,827 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:55:54,827 [NOTICE] Main – another diagnostic message
+2019-11-25 13:55:54,827 [REPAIR] Main – another REPAIR message
+2019-11-25 13:55:54,827 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:55:54,827 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:55:54,828 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:55:54,828 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:55:54,828 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:56:08,257 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:56:08,260 [NOTICE] Main – another diagnostic message
+2019-11-25 13:56:08,260 [REPAIR] Main – another REPAIR message
+2019-11-25 13:56:08,261 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:56:08,261 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:56:08,261 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:56:08,262 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:56:08,262 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:56:21,076 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:56:21,078 [NOTICE] Main – another diagnostic message
+2019-11-25 13:56:21,078 [REPAIR] Main – another REPAIR message
+2019-11-25 13:56:21,078 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:56:21,079 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:56:21,080 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:56:21,080 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:56:21,080 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:56:21,078 [FATAL ] Test Watch – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:56:21,079 [INFO  ] Test Watch – the built-in INFO level
+2019-11-25 13:56:21,080 [WARN  ] Test Watch – the built-in WARN level
+2019-11-25 13:56:21,080 [ERROR ] Test Watch – the built-in ERROR level
+2019-11-25 13:56:21,080 [FATAL ] Test Watch – the built-in FATAL level
+2019-11-25 13:55:54,827 [NOTICE] Main – another diagnostic message
+2019-11-25 13:56:08,261 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:56:21,034 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:56:21,078 [DEBUG ] Main – {}
+2019-11-25 13:56:21,078 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:56:21,078 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:54:31,942 [DEBUG ] Main – {}
+2019-11-25 13:54:31,942 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:54:31,942 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:54:54,193 [DEBUG ] Main – Hello from Log4j 2
+

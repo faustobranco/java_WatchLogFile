@@ -1,0 +1,179 @@
+2019-11-25 13:12:11,625 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:12:11,628 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:12:11,628 [NOTICE] Main – another diagnostic message
+2019-11-25 13:12:11,629 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:12:11,629 [DEBUG ] Main – {}
+2019-11-25 13:12:11,630 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:12:11,630 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:12:11,630 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:12:11,630 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:12:11,631 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:12:32,160 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:12:32,166 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:12:32,166 [NOTICE] Main – another diagnostic message
+2019-11-25 13:12:32,166 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:12:32,166 [DEBUG ] Main – {}
+2019-11-25 13:12:32,167 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:12:32,167 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:12:32,167 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:12:32,167 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:12:32,167 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:13:37,589 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:13:37,593 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:13:37,594 [NOTICE] Main – another diagnostic message
+2019-11-25 13:13:37,594 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:13:37,595 [DEBUG ] Main – {}
+2019-11-25 13:13:37,595 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:13:37,595 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:13:37,595 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:13:37,595 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:13:37,595 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:19:01,077 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:19:01,079 [DEBUG ] Main – {}
+2019-11-25 13:19:01,079 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:21:59,633 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:21:59,636 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:21:59,637 [NOTICE] Main – another diagnostic message
+2019-11-25 13:21:59,638 [DEBUG ] Main – {}
+2019-11-25 13:21:59,638 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:21:59,638 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:21:59,639 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:21:59,639 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:22:32,554 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:22:32,557 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:22:32,559 [NOTICE] Main – another diagnostic message
+2019-11-25 13:22:32,559 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:22:32,559 [DEBUG ] Main – {}
+2019-11-25 13:22:32,559 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:22:32,559 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:22:32,560 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:22:32,560 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:22:32,560 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:22:47,828 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:22:47,835 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:22:47,837 [NOTICE] Main – another diagnostic message
+2019-11-25 13:22:47,837 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:22:47,837 [DEBUG ] Main – {}
+2019-11-25 13:22:47,839 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:22:47,840 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:22:47,840 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:22:47,840 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:22:47,841 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:23:02,636 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:23:02,639 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:23:02,640 [NOTICE] Main – another diagnostic message
+2019-11-25 13:23:02,641 [DEBUG ] Main – {}
+2019-11-25 13:23:02,641 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:23:02,641 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:23:02,641 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:23:02,642 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:23:32,570 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:23:32,573 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:23:32,575 [NOTICE] Main – another diagnostic message
+2019-11-25 13:23:32,575 [DEBUG ] Main – {}
+2019-11-25 13:23:32,575 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:23:32,575 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:23:32,575 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:23:32,576 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:24:41,490 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:24:41,493 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:24:41,493 [NOTICE] Main – another diagnostic message
+2019-11-25 13:24:41,494 [DEBUG ] Main – {}
+2019-11-25 13:24:41,494 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:24:41,494 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:24:41,494 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:24:41,494 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:24:50,414 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:24:50,417 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:24:50,417 [NOTICE] Main – another diagnostic message
+2019-11-25 13:24:50,418 [DEBUG ] Main – {}
+2019-11-25 13:24:50,418 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:24:50,418 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:24:50,418 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:24:50,418 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:25:12,896 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:25:12,899 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:25:12,900 [NOTICE] Main – another diagnostic message
+2019-11-25 13:25:12,900 [DEBUG ] Main – {}
+2019-11-25 13:25:12,900 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:25:12,900 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:25:12,900 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:25:12,901 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:25:28,371 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:25:28,373 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:25:28,374 [NOTICE] Main – another diagnostic message
+2019-11-25 13:25:28,374 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:25:28,374 [DEBUG ] Main – {}
+2019-11-25 13:25:28,374 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:25:28,374 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:25:28,374 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:25:28,376 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:25:28,377 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:07,489 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:26:07,494 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:07,498 [NOTICE] Main – another diagnostic message
+2019-11-25 13:26:07,498 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:07,499 [DEBUG ] Main – {}
+2019-11-25 13:26:07,499 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:26:07,499 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:07,500 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:07,500 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:07,500 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:17,064 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:26:17,067 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:17,067 [NOTICE] Main – another diagnostic message
+2019-11-25 13:26:17,068 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:17,068 [DEBUG ] Main – {}
+2019-11-25 13:26:17,068 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:26:17,068 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:17,068 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:17,069 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:17,069 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:26:47,243 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:26:47,253 [DIAG  ] Main – a diagnostic message
+2019-11-25 13:26:47,253 [NOTICE] Main – another diagnostic message
+2019-11-25 13:26:47,253 [FATAL ] Main – Logger Name :: com.faustobranco.Main :: Passed Message ::
+2019-11-25 13:26:47,253 [DEBUG ] Main – {}
+2019-11-25 13:26:47,254 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:26:47,254 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:26:47,254 [INFO  ] Main – the built-in INFO level
+2019-11-25 13:26:47,255 [WARN  ] Main – the built-in WARN level
+2019-11-25 13:26:47,255 [ERROR ] Main – the built-in ERROR level
+2019-11-25 13:26:47,255 [FATAL ] Main – the built-in FATAL level
+2019-11-25 13:27:15,034 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:27:15,037 [DEBUG ] Main – {}
+2019-11-25 13:27:15,037 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:27:15,037 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:27:23,607 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:27:23,610 [DEBUG ] Main – {}
+2019-11-25 13:27:23,610 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:27:23,610 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:52:50,478 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:52:50,487 [DEBUG ] Main – {}
+2019-11-25 13:52:50,487 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:52:50,487 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:53:03,113 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:53:03,119 [DEBUG ] Main – {}
+2019-11-25 13:53:03,119 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:53:03,119 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:54:31,936 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:54:31,942 [DEBUG ] Main – {}
+2019-11-25 13:54:31,942 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:54:31,942 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:54:54,193 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:54:54,197 [DEBUG ] Main – {}
+2019-11-25 13:54:54,198 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:54:54,198 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:55:54,824 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:55:54,827 [DEBUG ] Main – {}
+2019-11-25 13:55:54,827 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:55:54,827 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:56:08,253 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:56:08,261 [DEBUG ] Main – {}
+2019-11-25 13:56:08,261 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:56:08,261 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:56:21,034 [DEBUG ] Main – Hello from Log4j 2
+2019-11-25 13:56:21,078 [DEBUG ] Main – {}
+2019-11-25 13:56:21,078 [TRACE ] Main – the built-in TRACE level
+2019-11-25 13:56:21,078 [DEBUG ] Main – the built-in DEBUG level
+2019-11-25 13:54:54,197 [NOTICE] Main – another diagnostic message
