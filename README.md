@@ -1,6 +1,7 @@
 # Java Watch Live Log Files
 
-  
+[![Github All Releases](https://img.shields.io/github/downloads/faustobranco/java_WatchLogFile/total.svg)]()
+
 Java example to watch live 2/n log files using threads
 
   ## Getting Started
